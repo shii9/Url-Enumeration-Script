@@ -19,10 +19,10 @@ Principles and naming convention
 
 Tools For collecting URLs
 
-- 1. Gau
-- 2. Gospider
-- 3. Katana
-- 4. Hakrawler 
-- 5. WaybackUrl 
-- 6. XnLinkFinder 
-- 7. Waymore
+-  Gau
+-  Gospider
+-  Katana
+-  Hakrawler 
+-  WaybackUrl 
+-  XnLinkFinder 
+-  Waymore
